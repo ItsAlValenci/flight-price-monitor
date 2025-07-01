@@ -1,0 +1,51 @@
+{
+  "Albert": [
+    {
+      "id": 1,
+      "og city": "SFO",
+      "city": "Los Angeles",
+      "iataCode": "LAX",
+      "dep_date": "2025-08-01",
+      "ret_date": "2025-09-08",
+      "LowestPrice": 800
+    },
+    {
+      "id": 2,
+      "og city": "SFO",
+      "city": "Tokyo",
+      "iataCode": "TYO",
+      "dep_date": "2025-08-01",
+      "ret_date": "2025-09-08",
+      "LowestPrice": 650
+    },
+    {
+      "id": 3,
+      "og city": "OAK",
+      "city": "Guadalajara",
+      "iataCode": "GDL",
+      "dep_date": "2025-08-01",
+      "ret_date": "2025-09-08",
+      "LowestPrice": 250
+    },
+    {
+      "id": 4,
+      "og city": "SFO",
+      "city": "Chicago",
+      "iataCode": "ORD",
+      "dep_date": "2025-08-01",
+      "ret_date": "2025-09-08",
+      "LowestPrice": 250
+    }
+  ],
+  "Vale": [
+    {
+      "id": 1,
+      "og city": "LAX",
+      "city": "Mexico city",
+      "iataCode": "MEX",
+      "dep_date": "2025-08-01",
+      "ret_date": "2025-09-08",
+      "LowestPrice": 800
+    }
+  ]
+}
